@@ -3,7 +3,7 @@ mini project for classifiy text using ML algorithm
 
 conclusion
 
-test accuracy of each method
+test accuracy of each method <br>
 K-Means : 0.6707 <br>
 KNN     : 0.6474 <br>
 Naive Bayes : 0.7678 <br>
